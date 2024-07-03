@@ -1,6 +1,6 @@
-<h1>Menu Operacional Bancario</h1>
+<h1>Menu Operacional Bancário</h1>
 
-<h2>💻 Projeto</h2> Bem-vindo ao "menu operacional bancario". Nesse projeto foi desenvolvimento em java através das aulas da <a href= https://cursos.alura.com.br/course/java-criando-primeira-aplicacao">Alura</a> com os instrutores <a href= "https://www.linkedin.com/in/jacqueline-r-oliveira/">Jacqueline Oliveira</a> e <a href= "https://www.linkedin.com/in/paulosilveira/">Paulo Silveira</a>
+<h2>💻 Projeto</h2> Bem-vindo ao "menu operacional bancário". Nesse projeto foi desenvolvimento em java através das aulas da <a href= https://cursos.alura.com.br/course/java-criando-primeira-aplicacao">Alura</a> com os instrutores <a href= "https://www.linkedin.com/in/jacqueline-r-oliveira/">Jacqueline Oliveira</a> e <a href= "https://www.linkedin.com/in/paulosilveira/">Paulo Silveira</a>
 <p>Foram abordados temas como: Principais tipos de dados. - Scanner para leitura de dados. - Controle o fluxo da aplicação com o uso de condicionais e loops.</p>
 
 <h2>:floppy_disk: Tecnologias Utilizadas </h2> 
